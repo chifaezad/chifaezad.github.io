@@ -149,6 +149,17 @@
     ],
     "experience": [
         {
+            "title": "IT teacher",
+            "place": {
+                "name": "education government, casablanca-settat",
+                "link": "#"
+            },
+            "date": "2021 - Present",
+            "details": "",
+            "content": "",
+            "hideinweb":true
+        },
+        {
             "title": "stock management system",
             "place": {
                 "name": "tax administration , Marrakech",
