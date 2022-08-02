@@ -1,315 +1,44 @@
 {
-    "fullname": "ZADELKHAIR ABDELKODDOUS",
-    "firstname": "ABDELKODDOUS",
+    "fullname": "ZADELKHAIR CHIFAE",
+    "firstname": "CHIFAE",
     "lastname": "ZADELKHAIR",
     "img": "/assets/images/me.jpg",
     "job": "Full stack web developer",
-    "email": "abdo.zad.raja2@gmail.com",
-    "phone": "+212680096104",
+    "email": "chifae.zd@gmail.com",
+    "phone": "+212600184935",
     "adresse": "104, Rue Soussa, Hay Naima, Berrechid, Morocco",
-    "socialmedia": [
-        {
-            "name": "facebook",
-            "logo": "fab fa-facebook-f mr-3",
-            "value": "https://www.facebook.com/Zadelkhair.Abdelkoddous/"
-        },
-        {
-            "name": "twitter",
-            "logo": "fab fa-twitter mr-3",
-            "value": "https://twitter.com/zad_elkhair?lang=ar"
-        },
-        {
-            "name": "github",
-            "logo": "fab fa-github mr-3",
-            "value": "https://github.com/Zadelkhair"
-        },
-        {
-            "name": "linkedin",
-            "logo": "fab fa-linkedin-in",
-            "value": "https://www.linkedin.com/in/abdelkoddous-zadelkhair-163b64164/"
-        }
-    ],
+    "socialmedia": [],
     "cv": "/assets/zadelkhair_abdelkoddous_resume.pdf",
-    "aboutme": "My name is ABDELKODDOUS ZADELKHAIR I'm 23 years old, full stack web developer (LARAVEL & VUEJS) with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, desktop and mobile applications ( C# and JAVA ). and best coding practices.",
-    "whatido": [
-        {
-            "logo": "fa fa-bullseye purple-color",
-            "title": "Web Development",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
-        },
-        {
-            "logo": "fa fa-bullseye purple-color",
-            "title": "App Development",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
-        },
-        {
-            "logo": "fa fa-bullseye purple-color",
-            "title": "UI Design",
-            "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
-        }
-    ],
-    "skills": {
-        "tech": [
-            {
-                "name": "php",
-                "rate": 90,
-                "useit": true
-            },
-            {
-                "name": "laravel",
-                "rate": 95,
-                "useit": true
-            },
-            {
-                "name": "vuejs",
-                "rate": 95,
-                "useit": true
-            },
-            {
-                "name": "angular",
-                "rate": 95,
-                "useit": true
-            },
-            {
-                "name": "javascript",
-                "rate": 93,
-                "useit": true
-            },
-            {
-                "name": "react native",
-                "rate": 80,
-                "useit": true
-            },
-            {
-                "name": "java",
-                "rate": 80,
-                "useit": true
-            },
-            {
-                "name": "c#",
-                "rate": 80,
-                "useit": true
-            },
-            {
-                "name": "html/css",
-                "rate": 95,
-                "useit": true
-            }
-        ],
-        "profes": [
-            {
-                "name": "Communication",
-                "rate": 86
-            },
-            {
-                "name": "Team Work",
-                "rate": 86
-            },
-            {
-                "name": "Project Management",
-                "rate": 86
-            },
-            {
-                "name": "Creativity",
-                "rate": 86
-            }
-        ]
-    },
-    "education": [
-        {
-            "title": "Bachelor Of Computer Science",
-            "place": {
-                "name": "University Ibn Zohr, Taroudant",
-                "link": "https://www.uiz.ac.ma/node/236/"
-            },
-            "date": "2020 - 2021",
-            "details": "the 'Computer Engineering' bachlor takes six semesters.\nThe main objective of this training is to train operational and competent IT specialists in the various fields of IT in particular, the design and development of software, Web technologies, the implementation of information systems, configuration and network administration, database administration, new mobile technologies, data analysis etc.",
-            "content": "i got my bachelor of computer science with honor degree ( 16/20 )."
-        },
-        {
-            "title": "Skilled Technician in Software Development Diploma",
-            "place": {
-                "name": "ISTICG OFPPT, Berrechid",
-                "link": "https://www.ofppt.ma/en/branches/it-development-techniques"
-            },
-            "date": "2018 - 2020",
-            "details": "The 'Skilled Technician in Software Development' is a support professional development and maintenance of computer applications. It intervenes, usually on behalf of companies Services and Computer Engineering, in many application areas (industry, management, leisure etc.).Upstream of the project the technician is responsive to customer expectations. This study accurately a number of parameters to carry out his mission; these include specifications, capacity of the technical environment and the constraints of the customer's production system. Downstream, it participates in the commissioning and technical support of the application.",
-            "content": "I got this diploma in software development with honor degree ( 17/20 )."
-        },
-        {
-            "title": "Height School Diploma",
-            "place": {
-                "name": "Ouled Hriz, Berrechid",
-                "link": "https://www.men.gov.ma/Fr/Pages/Ens-secoqualif.aspx"
-            },
-            "date": "2016 - 2017",
-            "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum",
-            "content": "high school diploma scientific Ouled Hriz Berrechid."
-        }
-    ],
-    "experience": [
-        {
-            "title": "IT teacher",
-            "place": {
-                "name": "education government, casablanca-settat",
-                "link": "#"
-            },
-            "date": "2021 - Present",
-            "details": "",
-            "content": "",
-            "hideinweb":true
-        },
-        {
-            "title": "stock management system",
-            "place": {
-                "name": "tax administration , Marrakech",
-                "link": "#"
-            },
-            "date": "2021 - Present",
-            "details": "",
-            "content": "Stock management application for the human resources department of the tax administration in Marrakech.",
-            "hideinweb":true
-        },
-        {
-            "title": "elwadifa.info",
-            "place": {
-                "name": "freelance",
-                "link": "#"
-            },
-            "date": "2021 - Present",
-            "details": "",
-            "content": "job announcement website.",
-            "hideinweb":true
-        },
-        {
-            "title": "traineeship at AGRI4.0",
-            "place": {
-                "name": "Agri 4.0, AGADIR",
-                "link": "#"
-            },
-            "date": "2021 - 3 months",
-            "details": "",
-            "content": "3-month internship at the agri 4.0 company, I developed during this internship a mobile application that manages a nursery with reactnative laravel technology.",
-            "hideinweb":false
-        },
-        {
-            "title": "Frontend developer at ZadTech",
-            "place": {
-                "name": "ZadTech, Elmohammadia",
-                "link": "#"
-            },
-            "date": "2020 - 5 months",
-            "details": "",
-            "content": "Frontend developer ( vuejs and angular ) at zadtech company.",
-            "hideinweb":false
-        },
-        {
-            "title": "IT administrator at Al-Khayrat",
-            "place": {
-                "name": "Al-khayrat, Berrechid ",
-                "link": "#"
-            },
-            "date": "2016-2020",
-            "details": "",
-            "content": "i worked as an it administrator, i have developed during this period multiple application, Candidate administration ( desktop application with c# ) , code permis al khayrat ( android version with java , disktop application with c# , web version with php ' laravel ' / vuejs )",
-            "hideinweb":false
-        },
-        {
-            "title": "utory.ma",
-            "place": {
-                "name": "freelance,Berrechid",
-                "link": "#"
-            },
-            "date": "2021",
-            "details": "",
-            "content": "UTORY , school management course online With laravel and vuejsWith laravel and vuejs.",
-            "hideinweb":true
-        },
-        {
-            "title": "Fullstack web developer Freelancer",
-            "place": {
-                "name": "Morocco",
-                "link": "#"
-            },
-            "date": "2019-2021",
-            "details": "",
-            "content": "Fullstack web developer laravel/vuejs",
-            "hideinweb":false
-        },
-        {
-            "title": "Code permis",
-            "place": {
-                "name": "Alkhayrat, Berrechid",
-                "link": "#"
-            },
-            "date": "2021",
-            "details": "",
-            "content": "Code permis , android application with Java and SQLite",
-            "hideinweb":true
-        },
-        {
-            "title": "Code Alkhayrat",
-            "place": {
-                "name": "Alkhayrat, Berrechid",
-                "link": "#"
-            },
-            "date": "2020",
-            "details": "",
-            "content": "CODE AL KHAYRAT , with laravel/vuejs and graphql",
-            "hideinweb":true
-        },
-        {
-            "title": "Dental care",
-            "place": {
-                "name": "Frelance, Berrechid",
-                "link": "#"
-            },
-            "date": "2020",
-            "details": "",
-            "content": "dental care  Web application with LARAVEL and VUEJS",
-            "hideinweb":true
-        },
-        {
-            "title": "ISTICG",
-            "place": {
-                "name": "ISTICG, Berrechid",
-                "link": "#"
-            },
-            "date": "2019",
-            "details": "",
-            "content": "timeline table management, desktop application with c# and sql server",
-            "hideinweb":true
-        }
-    ],
+    "aboutme": "Je m'appelle CHIFAE ZADELKHAIR j'ai 21 ans",
+    "whatido": [],
+    "skills": {},
+    "education": [],
+    "experience": [],
     "resume": {
         "info" : [
             {
-                "name" : "Residence",
-                "value" : "Morocco, Berrechid"
+                "name" : "Résidence",
+                "value" : "Maroc, Berrechid"
             },
             {
-                "name" : "Nationality",
-                "value" : "Morocco"
+                "name" : "Nationalité",
+                "value" : "Marocain"
             },
             {
-                "name" : "Birthdate",
-                "value" : "1998/10/14"
+                "name" : "Date de naissance",
+                "value" : "05/04/2001"
             },
             {
-                "name" : "Gender",
-                "value" : "Male"
+                "name" : "Le sexe",
+                "value" : "Feminin"
             },
             {
-                "name" : "Phone",
-                "value" : "+212680096104"
+                "name" : "Téléphone",
+                "value" : "+212600184935"
             },
             {
                 "name" : "Email",
-                "value" : "abdo.zad.raja2@gmail.com"
-            },
-            {
-                "name" : "Website",
-                "value" : "www.zadelkhair.me"
+                "value" : "Chifae.zd@gmail.com"
             }
         ],
         "skills": [
